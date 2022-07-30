@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Ali</h1>
-<h3 align="center">a Data Engineer from Egypt interested in the world of big data and analytics</h3>
+<h3 align="center">a geek from Egypt interested in the world of big data and analytics</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thedatajanit0r&label=Profile%20views&color=0e75b6&style=flat" alt="thedatajanit0r" /> </p>
 
@@ -8,6 +8,8 @@
 - 🔭 I’m currently working on [Spark](https://github.com/TheDataJanit0r/Spark)
 
 - 🌱 I’m currently learning **Apache Spark**
+
+- 📝 I regularly write articles on [https://medium.com/@mohamedaligalall](https://medium.com/@mohamedaligalall)
 
 - 💬 Ask me about **Apache Airflow, Python, SQL**
 
