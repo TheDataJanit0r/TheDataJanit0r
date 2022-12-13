@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thedatajanit0r" alt="thedatajanit0r" /></a> </p>
 
-- 🔭 I’m currently working on **Spark**
+- 🔭 I’m currently working on [streaming-coincap-data](https://github.com/TheDataJanit0r/streaming-coincap-data)
 
-- 🌱 I’m currently learning **Apache Spark/AWS Kenisis**
+- 🌱 I’m currently learning **Apache Spark/AWS Kinesis**
 
-- 📝 I regularly write articles on [https://thedatajanitor.de](https://thedatajanitor.de)
+- 📝 I regularly write articles on [Medium]([https://thedatajanitor.de](https://medium.com/@mohamedaligalall))
 
 - 💬 Ask me about **Apache Airflow, Python, SQL**
 
