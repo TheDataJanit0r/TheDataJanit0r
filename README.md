@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Apache Spark/AWS Kinesis**
 
-- 📝 I regularly write articles on [Medium]([https://thedatajanitor.de](https://medium.com/@mohamedaligalall))
+- 📝 I regularly write articles on [Medium](https://medium.com/@mohamedaligalall)
 
 - 💬 Ask me about **Apache Airflow, Python, SQL**
 
